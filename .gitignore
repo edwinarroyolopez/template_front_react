@@ -1,0 +1,21 @@
+### Root ###
+node_modules/
+package-lock.json
+
+### Web ###
+web/node_modules/
+web/build/
+web/package-lock.json
+
+# Sass #
+.sass-cache/
+*.css
+
+#vscode
+.vscode/
+
+#keys
+#*_key.json
+
+
+# 
