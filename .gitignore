@@ -9,7 +9,8 @@ web/package-lock.json
 
 # Sass #
 .sass-cache/
-*.css
+
+/web/src/assets/sass/*.css
 
 #vscode
 .vscode/

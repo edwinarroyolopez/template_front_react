@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
 
 import Menu from "./components/menu";
-import Products from "./scenes/products";
-import Store from "./scenes/store";
+import Products from "./pages/products";
+import Store from "./pages/store";
 
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import { HOME, PRODUCTS, STORE } from "./routes";
